@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula24ObjetosArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosArgumentos.genruntimeconfig.cache
